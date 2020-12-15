@@ -1,0 +1,16 @@
+{
+"companyName": "技能特效",
+"productName": "技能特效",
+"productVersion": "0.1",
+"dataUrl": "SKILL.data.unityweb",
+"wasmCodeUrl": "SKILL.wasm.code.unityweb",
+"wasmFrameworkUrl": "SKILL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.10f1"
+}
